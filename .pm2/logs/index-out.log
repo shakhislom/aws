@@ -1,0 +1,1447 @@
+Mongodb is connected
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+Mongodb is connected
+ReferenceError: u is not defined
+    at /home/ubuntu/server/controllers/groups.controller.js:224:15
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+ReferenceError: u is not defined
+    at /home/ubuntu/server/controllers/groups.controller.js:228:15
+    at Proxy.forEach (<anonymous>)
+    at editGroup (/home/ubuntu/server/controllers/groups.controller.js:226:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+ReferenceError: u is not defined
+    at /home/ubuntu/server/controllers/groups.controller.js:228:15
+    at Proxy.forEach (<anonymous>)
+    at editGroup (/home/ubuntu/server/controllers/groups.controller.js:226:14)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+ReferenceError: u is not defined
+    at /home/ubuntu/server/controllers/groups.controller.js:228:15
+    at Proxy.forEach (<anonymous>)
+    at editGroup (/home/ubuntu/server/controllers/groups.controller.js:226:14)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+ReferenceError: u is not defined
+    at /home/ubuntu/server/controllers/groups.controller.js:228:15
+    at Proxy.forEach (<anonymous>)
+    at editGroup (/home/ubuntu/server/controllers/groups.controller.js:226:14)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+TypeError: Cannot read property 'toString' of undefined
+    at messageSend (/home/ubuntu/server/controllers/message.controller.js:16:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+TypeError: Cannot read property 'toString' of undefined
+    at messageSend (/home/ubuntu/server/controllers/message.controller.js:16:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+TypeError: Cannot read property 'toString' of undefined
+    at messageSend (/home/ubuntu/server/controllers/message.controller.js:16:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+TypeError: Cannot read property 'toString' of undefined
+    at messageSend (/home/ubuntu/server/controllers/message.controller.js:16:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+TypeError: Cannot read property 'toString' of undefined
+    at messageEdit (/home/ubuntu/server/controllers/message.controller.js:170:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+TypeError: Cannot read property 'toString' of undefined
+    at messageDelete (/home/ubuntu/server/controllers/message.controller.js:131:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+TypeError: Cannot read property 'toString' of undefined
+    at messageEdit (/home/ubuntu/server/controllers/message.controller.js:170:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+TypeError: Cannot read property 'toString' of undefined
+    at messageEdit (/home/ubuntu/server/controllers/message.controller.js:170:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+TypeError: Cannot read property 'toString' of undefined
+    at messageDelete (/home/ubuntu/server/controllers/message.controller.js:131:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+Mongodb is connected
+user
+user
+group
+64cb60961cc668e2bfc60452
+{
+  _id: new ObjectId("64cb60961cc668e2bfc60452"),
+  users: [
+    new ObjectId("64ca7537e33047925c8212ab"),
+    new ObjectId("64ca78db745d33ab6bd4d4f3")
+  ],
+  name: 'zaz',
+  pic: null,
+  type: 'group',
+  creator: new ObjectId("64ca7537e33047925c8212ab"),
+  createdAt: 2023-08-03T08:08:54.771Z,
+  updatedAt: 2023-08-03T09:48:15.087Z,
+  __v: 0,
+  latestMessage: new ObjectId("64cb77df7bff78149b0c2c80")
+}
+group
+new ObjectId("64ca7537e33047925c8212ab")
+ReferenceError: u is not defined
+    at /home/ubuntu/server/controllers/groups.controller.js:226:15
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5) uhr
+Mongodb is connected
+user
+user
+user
+user
+user
+Mongodb is connected
+undefined
+Mongodb is connected
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/8fb3aff0-6601-4733-9efe-24f04cfb49d0.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/628269d2-4969-47ca-b4cb-da874a461006.jpeg'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/628269d2-4969-47ca-b4cb-da874a461006.jpeg',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/628269d2-4969-47ca-b4cb-da874a461006.jpeg'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/628269d2-4969-47ca-b4cb-da874a461006.jpeg',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/628269d2-4969-47ca-b4cb-da874a461006.jpeg'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/628269d2-4969-47ca-b4cb-da874a461006.jpeg',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+Mongodb is connected
+Mongodb is connected
+Mongodb is connected
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NGNjZWQyMmFkODBmNWJiZTM3MjU1OGYiLCJpYXQiOjE2OTExNTE2NTAsImV4cCI6MTY5MTIzODA1MH0.hnBJQZ65YUqI2brgH0QJUVRT70-D9oAC_ZfIhcGLATs 64cced22ad80f5bbe372558f
+temp/b6b91a13-e664-44f4-875c-5447cc0402fc.png
+temp/b6b91a13-e664-44f4-875c-5447cc0402fc.png b6b91a13-e664-44f4-875c-5447cc0402fc.png
+undefined
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NGNjZWQ5OWFkODBmNWJiZTM3MjU1ZmUiLCJpYXQiOjE2OTExNTE3NjksImV4cCI6MTY5MTIzODE2OX0.hM793WIGpGIkPnaWs64rC5-ymHeXFqLZTYQRWUorQsk 64cced99ad80f5bbe37255fe
+https://lh3.googleusercontent.com/a/AAcHTtfwoAmrphwEevtTvEntTs7Cm7BaQrfvukgVNHCqt8fH=s96-c
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NGNjZWRiMGFkODBmNWJiZTM3MjU2MTciLCJpYXQiOjE2OTExNTE3OTIsImV4cCI6MTY5MTIzODE5Mn0.SaJPT473VgRzaEv1i1LA-YTp4RjwSu1BzrCv6a9EOW4 64ccedb0ad80f5bbe3725617
+temp/4b7fc42b-54d8-4b3c-b5b3-65d6a0a544a7.jpeg
+temp/4b7fc42b-54d8-4b3c-b5b3-65d6a0a544a7.jpeg 4b7fc42b-54d8-4b3c-b5b3-65d6a0a544a7.jpeg
+undefined
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/4b7fc42b-54d8-4b3c-b5b3-65d6a0a544a7.jpeg'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/4b7fc42b-54d8-4b3c-b5b3-65d6a0a544a7.jpeg',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+Mongodb is connected
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/35a6db1c-cfe5-4230-88e8-b91ffbd21304.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+Mongodb is connected
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/a328be12-d7b0-4afc-ae5a-cf91f23d4cd2.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/a328be12-d7b0-4afc-ae5a-cf91f23d4cd2.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/a328be12-d7b0-4afc-ae5a-cf91f23d4cd2.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/a328be12-d7b0-4afc-ae5a-cf91f23d4cd2.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/3949a948-dce9-4996-86d0-0a64b245975d.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+Mongodb is connected
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/c25f9589-a6a8-4c07-8369-ad16c6af6111.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/c25f9589-a6a8-4c07-8369-ad16c6af6111.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/c25f9589-a6a8-4c07-8369-ad16c6af6111.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/c25f9589-a6a8-4c07-8369-ad16c6af6111.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/c25f9589-a6a8-4c07-8369-ad16c6af6111.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/c25f9589-a6a8-4c07-8369-ad16c6af6111.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/c25f9589-a6a8-4c07-8369-ad16c6af6111.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/c25f9589-a6a8-4c07-8369-ad16c6af6111.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+Error: Not allowed by CORS
+    at origin (/home/ubuntu/server/config/corsOptions.js:8:16)
+    at /home/ubuntu/server/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/ubuntu/server/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/ubuntu/server/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:328:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:280:10)
+    at /home/ubuntu/server/node_modules/express-fileupload/lib/index.js:35:14 un
+Mongodb is connected
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+Error: Not allowed by CORS
+    at origin (/home/ubuntu/server/config/corsOptions.js:8:16)
+    at /home/ubuntu/server/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/ubuntu/server/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/ubuntu/server/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:328:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:280:10)
+    at /home/ubuntu/server/node_modules/express-fileupload/lib/index.js:35:14 un
+Error: Not allowed by CORS
+    at origin (/home/ubuntu/server/config/corsOptions.js:8:16)
+    at /home/ubuntu/server/node_modules/cors/lib/index.js:219:13
+    at optionsCallback (/home/ubuntu/server/node_modules/cors/lib/index.js:199:9)
+    at corsMiddleware (/home/ubuntu/server/node_modules/cors/lib/index.js:204:7)
+    at Layer.handle [as handle_request] (/home/ubuntu/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/home/ubuntu/server/node_modules/express/lib/router/index.js:328:13)
+    at /home/ubuntu/server/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/ubuntu/server/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/ubuntu/server/node_modules/express/lib/router/index.js:280:10)
+    at /home/ubuntu/server/node_modules/express-fileupload/lib/index.js:35:14 un
+Mongodb is connected
+Mongodb is connected
+Mongodb is connected
+Mongodb is connected
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+Mongodb is connected
+Mongodb is connected
+Mongodb is connected
+Mongodb is connected
+Mongodb is connected
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/temp/7df4c9c5-c19e-43df-82b6-85220291734e.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un
+[Error: ENOENT: no such file or directory, stat '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/home/ubuntu/server/uploads/2699eda0-a62c-449b-bab3-9fcbe357e986.png',
+  expose: false,
+  statusCode: 404,
+  status: 404
+} un

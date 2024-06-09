@@ -1,0 +1,56 @@
+ReferenceError: u is not defined
+    at /home/ubuntu/server/controllers/groups.controller.js:224:15
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+ReferenceError: u is not defined
+    at /home/ubuntu/server/controllers/groups.controller.js:228:15
+    at Proxy.forEach (<anonymous>)
+    at editGroup (/home/ubuntu/server/controllers/groups.controller.js:226:14)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+ReferenceError: u is not defined
+    at /home/ubuntu/server/controllers/groups.controller.js:228:15
+    at Proxy.forEach (<anonymous>)
+    at editGroup (/home/ubuntu/server/controllers/groups.controller.js:226:14)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+ReferenceError: u is not defined
+    at /home/ubuntu/server/controllers/groups.controller.js:228:15
+    at Proxy.forEach (<anonymous>)
+    at editGroup (/home/ubuntu/server/controllers/groups.controller.js:226:14)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+ReferenceError: u is not defined
+    at /home/ubuntu/server/controllers/groups.controller.js:228:15
+    at Proxy.forEach (<anonymous>)
+    at editGroup (/home/ubuntu/server/controllers/groups.controller.js:226:14)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'toString' of undefined
+    at messageSend (/home/ubuntu/server/controllers/message.controller.js:16:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'toString' of undefined
+    at messageSend (/home/ubuntu/server/controllers/message.controller.js:16:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'toString' of undefined
+    at messageSend (/home/ubuntu/server/controllers/message.controller.js:16:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'toString' of undefined
+    at messageSend (/home/ubuntu/server/controllers/message.controller.js:16:29)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'toString' of undefined
+    at messageEdit (/home/ubuntu/server/controllers/message.controller.js:170:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'toString' of undefined
+    at messageDelete (/home/ubuntu/server/controllers/message.controller.js:131:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'toString' of undefined
+    at messageEdit (/home/ubuntu/server/controllers/message.controller.js:170:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'toString' of undefined
+    at messageEdit (/home/ubuntu/server/controllers/message.controller.js:170:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: Cannot read property 'toString' of undefined
+    at messageDelete (/home/ubuntu/server/controllers/message.controller.js:131:27)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+ReferenceError: u is not defined
+    at /home/ubuntu/server/controllers/groups.controller.js:226:15
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)

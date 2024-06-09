@@ -1,0 +1,284 @@
+0 verbose cli /home/ubuntu/.nvm/versions/node/v20.4.0/bin/node /home/ubuntu/.nvm/versions/node/v20.4.0/bin/npm
+1 info using npm@9.7.2
+2 info using node@v20.4.0
+3 timing npm:load:whichnode Completed in 25ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/home/ubuntu/.nvm/versions/node/v20.4.0/lib/node_modules/npm/npmrc Completed in 3ms
+6 timing config:load:builtin Completed in 3ms
+7 timing config:load:cli Completed in 3ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:project Completed in 8ms
+10 timing config:load:file:/home/ubuntu/.npmrc Completed in 0ms
+11 timing config:load:user Completed in 0ms
+12 timing config:load:file:/home/ubuntu/.nvm/versions/node/v20.4.0/etc/npmrc Completed in 0ms
+13 timing config:load:global Completed in 1ms
+14 timing config:load:setEnvs Completed in 1ms
+15 timing config:load Completed in 20ms
+16 timing npm:load:configload Completed in 20ms
+17 timing config:load:flatten Completed in 3ms
+18 timing npm:load:mkdirpcache Completed in 6ms
+19 timing npm:load:mkdirplogs Completed in 0ms
+20 verbose title npm uninstall pm2
+21 verbose argv "uninstall" "pm2" "--global"
+22 timing npm:load:setTitle Completed in 1ms
+23 timing npm:load:display Completed in 1ms
+24 verbose logfile logs-max:10 dir:/home/ubuntu/.npm/_logs/2023-08-02T13_37_47_409Z-
+25 verbose logfile /home/ubuntu/.npm/_logs/2023-08-02T13_37_47_409Z-debug-0.log
+26 timing npm:load:logFile Completed in 22ms
+27 timing npm:load:timers Completed in 0ms
+28 timing npm:load:configScope Completed in 0ms
+29 timing npm:load Completed in 107ms
+30 timing config:load:flatten Completed in 0ms
+31 timing arborist:ctor Completed in 1ms
+32 silly logfile done cleaning log files
+33 timing idealTree:init Completed in 16ms
+34 timing idealTree:userRequests Completed in 1ms
+35 silly idealTree buildDeps
+36 timing idealTree:#root Completed in 0ms
+37 timing idealTree:buildDeps Completed in 1ms
+38 timing idealTree:fixDepFlags Completed in 1ms
+39 timing idealTree Completed in 24ms
+40 timing reify:loadTrees Completed in 271ms
+41 timing reify:diffTrees Completed in 3ms
+42 silly reify mark retired [
+42 silly reify   '/home/ubuntu/.nvm/versions/node/v20.4.0/lib/node_modules/pm2',
+42 silly reify   '/home/ubuntu/.nvm/versions/node/v20.4.0/bin/pm2',
+42 silly reify   '/home/ubuntu/.nvm/versions/node/v20.4.0/bin/pm2-dev',
+42 silly reify   '/home/ubuntu/.nvm/versions/node/v20.4.0/bin/pm2-docker',
+42 silly reify   '/home/ubuntu/.nvm/versions/node/v20.4.0/bin/pm2-runtime'
+42 silly reify ]
+43 silly reify moves {
+43 silly reify   '/home/ubuntu/.nvm/versions/node/v20.4.0/lib/node_modules/pm2': '/home/ubuntu/.nvm/versions/node/v20.4.0/lib/node_modules/.pm2-iZwYkuil',
+43 silly reify   '/home/ubuntu/.nvm/versions/node/v20.4.0/bin/pm2': '/home/ubuntu/.nvm/versions/node/v20.4.0/bin/.pm2-xNhBUjlG',
+43 silly reify   '/home/ubuntu/.nvm/versions/node/v20.4.0/bin/pm2-dev': '/home/ubuntu/.nvm/versions/node/v20.4.0/bin/.pm2-dev-O0aI44VV',
+43 silly reify   '/home/ubuntu/.nvm/versions/node/v20.4.0/bin/pm2-docker': '/home/ubuntu/.nvm/versions/node/v20.4.0/bin/.pm2-docker-8A59qrhO',
+43 silly reify   '/home/ubuntu/.nvm/versions/node/v20.4.0/bin/pm2-runtime': '/home/ubuntu/.nvm/versions/node/v20.4.0/bin/.pm2-runtime-huDX3bsT'
+43 silly reify }
+44 timing reify:retireShallow Completed in 13ms
+45 timing reify:createSparse Completed in 0ms
+46 timing reify:loadBundles Completed in 0ms
+47 timing reify:unpack Completed in 0ms
+48 timing reify:unretire Completed in 0ms
+49 timing build:queue Completed in 0ms
+50 timing build:deps Completed in 1ms
+51 timing build Completed in 1ms
+52 timing reify:build Completed in 1ms
+53 timing reify:trash Completed in 708ms
+54 timing reify Completed in 1029ms
+55 silly REMOVE node_modules/pm2
+56 silly REMOVE node_modules/pm2/node_modules/lodash.foreach
+57 silly REMOVE node_modules/pm2/node_modules/lodash.findindex
+58 silly REMOVE node_modules/pm2/node_modules/lodash
+59 silly REMOVE node_modules/pm2/node_modules/levn
+60 silly REMOVE node_modules/pm2/node_modules/lazy
+61 silly REMOVE node_modules/pm2/node_modules/js-git
+62 silly REMOVE node_modules/pm2/node_modules/isarray
+63 silly REMOVE node_modules/pm2/node_modules/is-number
+64 silly REMOVE node_modules/pm2/node_modules/is-glob
+65 silly REMOVE node_modules/pm2/node_modules/is-extglob
+66 silly REMOVE node_modules/pm2/node_modules/is-core-module
+67 silly REMOVE node_modules/pm2/node_modules/is-binary-path
+68 silly REMOVE node_modules/pm2/node_modules/ip
+69 silly REMOVE node_modules/pm2/node_modules/interpret
+70 silly REMOVE node_modules/pm2/node_modules/setprototypeof
+71 silly REMOVE node_modules/pm2/node_modules/semver
+72 silly REMOVE node_modules/pm2/node_modules/sax
+73 silly REMOVE node_modules/pm2/node_modules/safer-buffer
+74 silly REMOVE node_modules/pm2/node_modules/ini
+75 silly REMOVE node_modules/pm2/node_modules/inherits
+76 silly REMOVE node_modules/pm2/node_modules/inflight
+77 silly REMOVE node_modules/pm2/node_modules/iconv-lite
+78 silly REMOVE node_modules/pm2/node_modules/https-proxy-agent
+79 silly REMOVE node_modules/pm2/node_modules/https-proxy-agent/node_modules/debug
+80 silly REMOVE node_modules/pm2/node_modules/http-proxy-agent
+81 silly REMOVE node_modules/pm2/node_modules/http-proxy-agent/node_modules/ms
+82 silly REMOVE node_modules/pm2/node_modules/http-proxy-agent/node_modules/debug
+83 silly REMOVE node_modules/pm2/node_modules/http-errors
+84 silly REMOVE node_modules/pm2/node_modules/@pm2/js-api
+85 silly REMOVE node_modules/pm2/node_modules/@pm2/js-api/node_modules/ws
+86 silly REMOVE node_modules/pm2/node_modules/@pm2/js-api/node_modules/safe-buffer
+87 silly REMOVE node_modules/pm2/node_modules/@pm2/js-api/node_modules/ms
+88 silly REMOVE node_modules/pm2/node_modules/@pm2/js-api/node_modules/eventemitter2
+89 silly REMOVE node_modules/pm2/node_modules/@pm2/js-api/node_modules/debug
+90 silly REMOVE node_modules/pm2/node_modules/@pm2/js-api/node_modules/async
+91 silly REMOVE node_modules/pm2/node_modules/@pm2/io
+92 silly REMOVE node_modules/pm2/node_modules/@pm2/io/node_modules/semver
+93 silly REMOVE node_modules/pm2/node_modules/@pm2/io/node_modules/eventemitter2
+94 silly REMOVE node_modules/pm2/node_modules/@pm2/io/node_modules/async
+95 silly REMOVE node_modules/pm2/node_modules/@pm2/agent-node
+96 silly REMOVE node_modules/pm2/node_modules/@pm2/agent-node/node_modules/ws
+97 silly REMOVE node_modules/pm2/node_modules/@pm2/agent-node/node_modules/debug
+98 silly REMOVE node_modules/pm2/node_modules/@pm2/agent
+99 silly REMOVE node_modules/pm2/node_modules/@pm2/agent/node_modules/async
+100 silly REMOVE node_modules/pm2/node_modules/@opencensus/propagation-b3
+101 silly REMOVE node_modules/pm2/node_modules/@opencensus/propagation-b3/node_modules/@opencensus/core
+102 silly REMOVE node_modules/pm2/node_modules/@opencensus/core
+103 silly REMOVE node_modules/pm2/node_modules/yamljs
+104 silly REMOVE node_modules/pm2/node_modules/yallist
+105 silly REMOVE node_modules/pm2/node_modules/xregexp
+106 silly REMOVE node_modules/pm2/node_modules/ws
+107 silly REMOVE node_modules/pm2/node_modules/wrappy
+108 silly REMOVE node_modules/pm2/node_modules/word-wrap
+109 silly REMOVE node_modules/pm2/node_modules/vizion
+110 silly REMOVE node_modules/pm2/node_modules/vizion/node_modules/async
+111 silly REMOVE node_modules/pm2/node_modules/uuid
+112 silly REMOVE node_modules/pm2/node_modules/util-deprecate
+113 silly REMOVE node_modules/pm2/node_modules/unpipe
+114 silly REMOVE node_modules/pm2/node_modules/ultron
+115 silly REMOVE node_modules/pm2/node_modules/type-check
+116 silly REMOVE node_modules/pm2/node_modules/tv4
+117 silly REMOVE node_modules/pm2/node_modules/tslib
+118 silly REMOVE node_modules/pm2/node_modules/toidentifier
+119 silly REMOVE node_modules/pm2/node_modules/to-regex-range
+120 silly REMOVE node_modules/pm2/node_modules/thunkify
+121 silly REMOVE node_modules/pm2/node_modules/systeminformation
+122 silly REMOVE node_modules/pm2/node_modules/supports-preserve-symlinks-flag
+123 silly REMOVE node_modules/pm2/node_modules/supports-color
+124 silly REMOVE node_modules/pm2/node_modules/strip-ansi
+125 silly REMOVE node_modules/pm2/node_modules/string_decoder
+126 silly REMOVE node_modules/pm2/node_modules/string_decoder/node_modules/safe-buffer
+127 silly REMOVE node_modules/pm2/node_modules/statuses
+128 silly REMOVE node_modules/pm2/node_modules/sprintf-js
+129 silly REMOVE node_modules/pm2/node_modules/source-map-support
+130 silly REMOVE node_modules/pm2/node_modules/source-map
+131 silly REMOVE node_modules/pm2/node_modules/socks-proxy-agent
+132 silly REMOVE node_modules/pm2/node_modules/socks-proxy-agent/node_modules/agent-base
+133 silly REMOVE node_modules/pm2/node_modules/socks
+134 silly REMOVE node_modules/pm2/node_modules/socks/node_modules/ip
+135 silly REMOVE node_modules/pm2/node_modules/smart-buffer
+136 silly REMOVE node_modules/pm2/node_modules/signal-exit
+137 silly REMOVE node_modules/pm2/node_modules/shimmer
+138 silly REMOVE node_modules/pm2/node_modules/shelljs
+139 silly REMOVE node_modules/pm2/node_modules/lru-cache
+140 silly REMOVE node_modules/pm2/node_modules/log-driver
+141 silly REMOVE node_modules/pm2/node_modules/lodash.last
+142 silly REMOVE node_modules/pm2/node_modules/lodash.get
+143 silly REMOVE node_modules/pm2/node_modules/minimist
+144 silly REMOVE node_modules/pm2/node_modules/minimatch
+145 silly REMOVE node_modules/pm2/node_modules/has-flag
+146 silly REMOVE node_modules/pm2/node_modules/safe-buffer
+147 silly REMOVE node_modules/pm2/node_modules/resolve
+148 silly REMOVE node_modules/pm2/node_modules/require-in-the-middle
+149 silly REMOVE node_modules/pm2/node_modules/rechoir
+150 silly REMOVE node_modules/pm2/node_modules/readdirp
+151 silly REMOVE node_modules/pm2/node_modules/readable-stream
+152 silly REMOVE node_modules/pm2/node_modules/readable-stream/node_modules/safe-buffer
+153 silly REMOVE node_modules/pm2/node_modules/read
+154 silly REMOVE node_modules/pm2/node_modules/raw-body
+155 silly REMOVE node_modules/pm2/node_modules/ps-list
+156 silly REMOVE node_modules/pm2/node_modules/proxy-from-env
+157 silly REMOVE node_modules/pm2/node_modules/proxy-agent
+158 silly REMOVE node_modules/pm2/node_modules/promptly
+159 silly REMOVE node_modules/pm2/node_modules/process-nextick-args
+160 silly REMOVE node_modules/pm2/node_modules/prelude-ls
+161 silly REMOVE node_modules/pm2/node_modules/pm2-multimeter
+162 silly REMOVE node_modules/pm2/node_modules/pm2-deploy
+163 silly REMOVE node_modules/pm2/node_modules/pm2-deploy/node_modules/async
+164 silly REMOVE node_modules/pm2/node_modules/pm2-axon-rpc
+165 silly REMOVE node_modules/pm2/node_modules/pm2-axon-rpc/node_modules/debug
+166 silly REMOVE node_modules/pm2/node_modules/pm2-axon
+167 silly REMOVE node_modules/pm2/node_modules/pm2-axon/node_modules/debug
+168 silly REMOVE node_modules/pm2/node_modules/pidusage
+169 silly REMOVE node_modules/pm2/node_modules/picomatch
+170 silly REMOVE node_modules/pm2/node_modules/path-parse
+171 silly REMOVE node_modules/pm2/node_modules/path-is-absolute
+172 silly REMOVE node_modules/pm2/node_modules/pako
+173 silly REMOVE node_modules/pm2/node_modules/pac-resolver
+174 silly REMOVE node_modules/pm2/node_modules/pac-proxy-agent
+175 silly REMOVE node_modules/pm2/node_modules/optionator
+176 silly REMOVE node_modules/pm2/node_modules/once
+177 silly REMOVE node_modules/pm2/node_modules/nssocket
+178 silly REMOVE node_modules/pm2/node_modules/nssocket/node_modules/eventemitter2
+179 silly REMOVE node_modules/pm2/node_modules/normalize-path
+180 silly REMOVE node_modules/pm2/node_modules/netmask
+181 silly REMOVE node_modules/pm2/node_modules/needle
+182 silly REMOVE node_modules/pm2/node_modules/needle/node_modules/debug
+183 silly REMOVE node_modules/pm2/node_modules/mute-stream
+184 silly REMOVE node_modules/pm2/node_modules/ms
+185 silly REMOVE node_modules/pm2/node_modules/moment-timezone
+186 silly REMOVE node_modules/pm2/node_modules/moment-timezone/node_modules/moment
+187 silly REMOVE node_modules/pm2/node_modules/moment
+188 silly REMOVE node_modules/pm2/node_modules/module-details-from-path
+189 silly REMOVE node_modules/pm2/node_modules/mkdirp
+190 silly REMOVE node_modules/pm2/node_modules/git-sha1
+191 silly REMOVE node_modules/pm2/node_modules/git-node-fs
+192 silly REMOVE node_modules/pm2/node_modules/get-uri
+193 silly REMOVE node_modules/pm2/node_modules/get-uri/node_modules/ms
+194 silly REMOVE node_modules/pm2/node_modules/get-uri/node_modules/debug
+195 silly REMOVE node_modules/pm2/node_modules/function-bind
+196 silly REMOVE node_modules/pm2/node_modules/ftp
+197 silly REMOVE node_modules/pm2/node_modules/ftp/node_modules/string_decoder
+198 silly REMOVE node_modules/pm2/node_modules/ftp/node_modules/readable-stream
+199 silly REMOVE node_modules/pm2/node_modules/ftp/node_modules/isarray
+200 silly REMOVE node_modules/pm2/node_modules/fs.realpath
+201 silly REMOVE node_modules/pm2/node_modules/follow-redirects
+202 silly REMOVE node_modules/pm2/node_modules/follow-redirects/node_modules/ms
+203 silly REMOVE node_modules/pm2/node_modules/follow-redirects/node_modules/debug
+204 silly REMOVE node_modules/pm2/node_modules/fill-range
+205 silly REMOVE node_modules/pm2/node_modules/file-uri-to-path
+206 silly REMOVE node_modules/pm2/node_modules/fclone
+207 silly REMOVE node_modules/pm2/node_modules/fast-levenshtein
+208 silly REMOVE node_modules/pm2/node_modules/extend
+209 silly REMOVE node_modules/pm2/node_modules/eventemitter2
+210 silly REMOVE node_modules/pm2/node_modules/esutils
+211 silly REMOVE node_modules/pm2/node_modules/estraverse
+212 silly REMOVE node_modules/pm2/node_modules/esprima
+213 silly REMOVE node_modules/pm2/node_modules/escodegen
+214 silly REMOVE node_modules/pm2/node_modules/escodegen/node_modules/esprima
+215 silly REMOVE node_modules/pm2/node_modules/escape-string-regexp
+216 silly REMOVE node_modules/pm2/node_modules/escape-regexp
+217 silly REMOVE node_modules/pm2/node_modules/es6-promisify
+218 silly REMOVE node_modules/pm2/node_modules/es6-promise
+219 silly REMOVE node_modules/pm2/node_modules/emitter-listener
+220 silly REMOVE node_modules/pm2/node_modules/depd
+221 silly REMOVE node_modules/pm2/node_modules/degenerator
+222 silly REMOVE node_modules/pm2/node_modules/deep-is
+223 silly REMOVE node_modules/pm2/node_modules/debug
+224 silly REMOVE node_modules/pm2/node_modules/date-fns
+225 silly REMOVE node_modules/pm2/node_modules/data-uri-to-buffer
+226 silly REMOVE node_modules/pm2/node_modules/culvert
+227 silly REMOVE node_modules/pm2/node_modules/cron
+228 silly REMOVE node_modules/pm2/node_modules/core-util-is
+229 silly REMOVE node_modules/pm2/node_modules/continuation-local-storage
+230 silly REMOVE node_modules/pm2/node_modules/concat-map
+231 silly REMOVE node_modules/pm2/node_modules/commander
+232 silly REMOVE node_modules/pm2/node_modules/has-ansi
+233 silly REMOVE node_modules/pm2/node_modules/has
+234 silly REMOVE node_modules/pm2/node_modules/glob-parent
+235 silly REMOVE node_modules/pm2/node_modules/glob
+236 silly REMOVE node_modules/pm2/node_modules/chalk
+237 silly REMOVE node_modules/pm2/node_modules/bytes
+238 silly REMOVE node_modules/pm2/node_modules/buffer-from
+239 silly REMOVE node_modules/pm2/node_modules/braces
+240 silly REMOVE node_modules/pm2/node_modules/brace-expansion
+241 silly REMOVE node_modules/pm2/node_modules/bodec
+242 silly REMOVE node_modules/pm2/node_modules/blessed
+243 silly REMOVE node_modules/pm2/node_modules/binary-extensions
+244 silly REMOVE node_modules/pm2/node_modules/balanced-match
+245 silly REMOVE node_modules/pm2/node_modules/axios
+246 silly REMOVE node_modules/pm2/node_modules/async-listener
+247 silly REMOVE node_modules/pm2/node_modules/async-limiter
+248 silly REMOVE node_modules/pm2/node_modules/async
+249 silly REMOVE node_modules/pm2/node_modules/ast-types
+250 silly REMOVE node_modules/pm2/node_modules/ast-types/node_modules/tslib
+251 silly REMOVE node_modules/pm2/node_modules/argparse
+252 silly REMOVE node_modules/pm2/node_modules/argparse/node_modules/sprintf-js
+253 silly REMOVE node_modules/pm2/node_modules/anymatch
+254 silly REMOVE node_modules/pm2/node_modules/ansi-styles
+255 silly REMOVE node_modules/pm2/node_modules/ansi-regex
+256 silly REMOVE node_modules/pm2/node_modules/amp-message
+257 silly REMOVE node_modules/pm2/node_modules/amp
+258 silly REMOVE node_modules/pm2/node_modules/agent-base
+259 silly REMOVE node_modules/pm2/node_modules/color-name
+260 silly REMOVE node_modules/pm2/node_modules/color-convert
+261 silly REMOVE node_modules/pm2/node_modules/co
+262 silly REMOVE node_modules/pm2/node_modules/cli-table-redemption
+263 silly REMOVE node_modules/pm2/node_modules/cli-table-redemption/node_modules/supports-color
+264 silly REMOVE node_modules/pm2/node_modules/cli-table-redemption/node_modules/chalk
+265 silly REMOVE node_modules/pm2/node_modules/cli-table-redemption/node_modules/ansi-styles
+266 silly REMOVE node_modules/pm2/node_modules/chokidar
+267 silly REMOVE node_modules/pm2/node_modules/charm
+268 timing command:uninstall Completed in 1048ms
+269 verbose exit 0
+270 timing npm Completed in 1382ms
+271 info ok

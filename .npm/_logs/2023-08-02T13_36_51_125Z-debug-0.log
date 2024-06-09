@@ -1,0 +1,492 @@
+0 verbose cli /home/ubuntu/.nvm/versions/node/v20.4.0/bin/node /home/ubuntu/.nvm/versions/node/v20.4.0/bin/npm
+1 info using npm@9.7.2
+2 info using node@v20.4.0
+3 timing npm:load:whichnode Completed in 25ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/home/ubuntu/.nvm/versions/node/v20.4.0/lib/node_modules/npm/npmrc Completed in 4ms
+6 timing config:load:builtin Completed in 4ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:/home/ubuntu/tgbots/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 5ms
+11 timing config:load:file:/home/ubuntu/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/home/ubuntu/.nvm/versions/node/v20.4.0/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 16ms
+17 timing npm:load:configload Completed in 16ms
+18 timing config:load:flatten Completed in 3ms
+19 timing npm:load:mkdirpcache Completed in 6ms
+20 timing npm:load:mkdirplogs Completed in 0ms
+21 verbose title npm uninstall pm2
+22 verbose argv "uninstall" "pm2"
+23 timing npm:load:setTitle Completed in 1ms
+24 timing npm:load:display Completed in 1ms
+25 verbose logfile logs-max:10 dir:/home/ubuntu/.npm/_logs/2023-08-02T13_36_51_125Z-
+26 verbose logfile /home/ubuntu/.npm/_logs/2023-08-02T13_36_51_125Z-debug-0.log
+27 timing npm:load:logFile Completed in 22ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 107ms
+31 timing arborist:ctor Completed in 0ms
+32 silly logfile done cleaning log files
+33 timing idealTree:init Completed in 153ms
+34 warn old lockfile
+34 warn old lockfile The package-lock.json file was created with an old version of npm,
+34 warn old lockfile so supplemental metadata must be fetched from the registry.
+34 warn old lockfile
+34 warn old lockfile This is a one-time fix-up, please be patient...
+34 warn old lockfile
+35 silly inflate node_modules/@ffmpeg-installer/darwin-arm64
+36 http fetch GET 200 https://registry.npmjs.org/@ffmpeg-installer%2fdarwin-arm64 194ms (cache hit)
+37 silly inflate node_modules/@ffmpeg-installer/darwin-x64
+38 http fetch GET 200 https://registry.npmjs.org/@ffmpeg-installer%2fdarwin-x64 7ms (cache hit)
+39 silly inflate node_modules/@ffmpeg-installer/ffmpeg
+40 http fetch GET 200 https://registry.npmjs.org/@ffmpeg-installer%2fffmpeg 12ms (cache hit)
+41 silly inflate node_modules/@ffmpeg-installer/linux-arm
+42 http fetch GET 200 https://registry.npmjs.org/@ffmpeg-installer%2flinux-arm 13ms (cache hit)
+43 silly inflate node_modules/@ffmpeg-installer/linux-arm64
+44 http fetch GET 200 https://registry.npmjs.org/@ffmpeg-installer%2flinux-arm64 7ms (cache hit)
+45 silly inflate node_modules/@ffmpeg-installer/linux-ia32
+46 http fetch GET 200 https://registry.npmjs.org/@ffmpeg-installer%2flinux-ia32 7ms (cache hit)
+47 silly inflate node_modules/@ffmpeg-installer/linux-x64
+48 http fetch GET 200 https://registry.npmjs.org/@ffmpeg-installer%2flinux-x64 6ms (cache hit)
+49 silly inflate node_modules/@ffmpeg-installer/win32-ia32
+50 http fetch GET 200 https://registry.npmjs.org/@ffmpeg-installer%2fwin32-ia32 5ms (cache hit)
+51 silly inflate node_modules/@ffmpeg-installer/win32-x64
+52 http fetch GET 200 https://registry.npmjs.org/@ffmpeg-installer%2fwin32-x64 9ms (cache hit)
+53 silly inflate node_modules/@ffprobe-installer/darwin-arm64
+54 http fetch GET 200 https://registry.npmjs.org/@ffprobe-installer%2fdarwin-arm64 7ms (cache hit)
+55 silly inflate node_modules/@ffprobe-installer/darwin-x64
+56 http fetch GET 200 https://registry.npmjs.org/@ffprobe-installer%2fdarwin-x64 9ms (cache hit)
+57 silly inflate node_modules/@ffprobe-installer/ffprobe
+58 http fetch GET 200 https://registry.npmjs.org/@ffprobe-installer%2fffprobe 7ms (cache hit)
+59 silly inflate node_modules/@ffprobe-installer/linux-arm
+60 http fetch GET 200 https://registry.npmjs.org/@ffprobe-installer%2flinux-arm 940ms (cache revalidated)
+61 silly inflate node_modules/@ffprobe-installer/linux-arm64
+62 http fetch GET 200 https://registry.npmjs.org/@ffprobe-installer%2flinux-arm64 888ms (cache revalidated)
+63 silly inflate node_modules/@ffprobe-installer/linux-ia32
+64 http fetch GET 200 https://registry.npmjs.org/@ffprobe-installer%2flinux-ia32 165ms (cache revalidated)
+65 silly inflate node_modules/@ffprobe-installer/linux-x64
+66 http fetch GET 200 https://registry.npmjs.org/@ffprobe-installer%2flinux-x64 606ms (cache revalidated)
+67 silly inflate node_modules/@ffprobe-installer/win32-ia32
+68 http fetch GET 200 https://registry.npmjs.org/@ffprobe-installer%2fwin32-ia32 185ms (cache revalidated)
+69 silly inflate node_modules/@ffprobe-installer/win32-x64
+70 http fetch GET 200 https://registry.npmjs.org/@ffprobe-installer%2fwin32-x64 346ms (cache revalidated)
+71 silly inflate node_modules/abort-controller
+72 http fetch GET 200 https://registry.npmjs.org/abort-controller 56ms (cache revalidated)
+73 silly inflate node_modules/ajv
+74 http fetch GET 200 https://registry.npmjs.org/ajv 29ms (cache revalidated)
+75 silly inflate node_modules/asn1
+76 http fetch GET 200 https://registry.npmjs.org/asn1 25ms (cache revalidated)
+77 silly inflate node_modules/assert-plus
+78 http fetch GET 200 https://registry.npmjs.org/assert-plus 34ms (cache revalidated)
+79 silly inflate node_modules/async
+80 http fetch GET 200 https://registry.npmjs.org/async 7ms (cache hit)
+81 silly inflate node_modules/asynckit
+82 http fetch GET 200 https://registry.npmjs.org/asynckit 29ms (cache revalidated)
+83 silly inflate node_modules/aws-sign2
+84 http fetch GET 200 https://registry.npmjs.org/aws-sign2 41ms (cache revalidated)
+85 silly inflate node_modules/aws4
+86 http fetch GET 200 https://registry.npmjs.org/aws4 49ms (cache revalidated)
+87 silly inflate node_modules/bcrypt-pbkdf
+88 http fetch GET 200 https://registry.npmjs.org/bcrypt-pbkdf 33ms (cache revalidated)
+89 silly inflate node_modules/buffer-alloc
+90 http fetch GET 200 https://registry.npmjs.org/buffer-alloc 41ms (cache revalidated)
+91 silly inflate node_modules/buffer-alloc-unsafe
+92 http fetch GET 200 https://registry.npmjs.org/buffer-alloc-unsafe 33ms (cache revalidated)
+93 silly inflate node_modules/buffer-fill
+94 http fetch GET 200 https://registry.npmjs.org/buffer-fill 47ms (cache revalidated)
+95 silly inflate node_modules/caseless
+96 http fetch GET 200 https://registry.npmjs.org/caseless 28ms (cache revalidated)
+97 silly inflate node_modules/combined-stream
+98 http fetch GET 200 https://registry.npmjs.org/combined-stream 74ms (cache revalidated)
+99 silly inflate node_modules/core-util-is
+100 http fetch GET 200 https://registry.npmjs.org/core-util-is 6ms (cache hit)
+101 silly inflate node_modules/cross-spawn
+102 http fetch GET 200 https://registry.npmjs.org/cross-spawn 27ms (cache revalidated)
+103 silly inflate node_modules/cross-spawn/node_modules/which
+104 http fetch GET 200 https://registry.npmjs.org/which 25ms (cache revalidated)
+105 silly inflate node_modules/dashdash
+106 http fetch GET 200 https://registry.npmjs.org/dashdash 38ms (cache revalidated)
+107 silly inflate node_modules/data-uri-to-buffer
+108 http fetch GET 200 https://registry.npmjs.org/data-uri-to-buffer 4ms (cache hit)
+109 silly inflate node_modules/debug
+110 http fetch GET 200 https://registry.npmjs.org/debug 7ms (cache hit)
+111 silly inflate node_modules/delayed-stream
+112 http fetch GET 200 https://registry.npmjs.org/delayed-stream 130ms (cache revalidated)
+113 silly inflate node_modules/dotenv
+114 http fetch GET 200 https://registry.npmjs.org/dotenv 27ms (cache revalidated)
+115 silly inflate node_modules/ecc-jsbn
+116 http fetch GET 200 https://registry.npmjs.org/ecc-jsbn 25ms (cache revalidated)
+117 silly inflate node_modules/event-target-shim
+118 http fetch GET 200 https://registry.npmjs.org/event-target-shim 37ms (cache revalidated)
+119 silly inflate node_modules/execa
+120 http fetch GET 200 https://registry.npmjs.org/execa 29ms (cache revalidated)
+121 silly inflate node_modules/extend
+122 http fetch GET 200 https://registry.npmjs.org/extend 7ms (cache hit)
+123 silly inflate node_modules/extsprintf
+124 http fetch GET 200 https://registry.npmjs.org/extsprintf 58ms (cache revalidated)
+125 silly inflate node_modules/fast-deep-equal
+126 http fetch GET 200 https://registry.npmjs.org/fast-deep-equal 26ms (cache revalidated)
+127 silly inflate node_modules/fast-json-stable-stringify
+128 http fetch GET 200 https://registry.npmjs.org/fast-json-stable-stringify 27ms (cache revalidated)
+129 silly inflate node_modules/fetch-blob
+130 http fetch GET 200 https://registry.npmjs.org/fetch-blob 30ms (cache revalidated)
+131 silly inflate node_modules/fluent-ffmpeg
+132 http fetch GET 200 https://registry.npmjs.org/fluent-ffmpeg 29ms (cache revalidated)
+133 silly inflate node_modules/forever-agent
+134 http fetch GET 200 https://registry.npmjs.org/forever-agent 25ms (cache revalidated)
+135 silly inflate node_modules/form-data
+136 http fetch GET 200 https://registry.npmjs.org/form-data 58ms (cache revalidated)
+137 silly inflate node_modules/formdata-polyfill
+138 http fetch GET 200 https://registry.npmjs.org/formdata-polyfill 26ms (cache revalidated)
+139 silly inflate node_modules/get-audio-duration
+140 http fetch GET 200 https://registry.npmjs.org/get-audio-duration 171ms (cache revalidated)
+141 silly inflate node_modules/get-stream
+142 http fetch GET 200 https://registry.npmjs.org/get-stream 26ms (cache revalidated)
+143 silly inflate node_modules/getpass
+144 http fetch GET 200 https://registry.npmjs.org/getpass 31ms (cache revalidated)
+145 silly inflate node_modules/har-schema
+146 http fetch GET 200 https://registry.npmjs.org/har-schema 25ms (cache revalidated)
+147 silly inflate node_modules/har-validator
+148 http fetch GET 200 https://registry.npmjs.org/har-validator 24ms (cache revalidated)
+149 silly inflate node_modules/http-signature
+150 http fetch GET 200 https://registry.npmjs.org/http-signature 31ms (cache revalidated)
+151 silly inflate node_modules/human-signals
+152 http fetch GET 200 https://registry.npmjs.org/human-signals 24ms (cache revalidated)
+153 silly inflate node_modules/is-stream
+154 http fetch GET 200 https://registry.npmjs.org/is-stream 27ms (cache revalidated)
+155 silly inflate node_modules/is-typedarray
+156 http fetch GET 200 https://registry.npmjs.org/is-typedarray 27ms (cache revalidated)
+157 silly inflate node_modules/isexe
+158 http fetch GET 200 https://registry.npmjs.org/isexe 29ms (cache revalidated)
+159 silly inflate node_modules/isstream
+160 http fetch GET 200 https://registry.npmjs.org/isstream 24ms (cache revalidated)
+161 silly inflate node_modules/jsbn
+162 http fetch GET 200 https://registry.npmjs.org/jsbn 21ms (cache revalidated)
+163 silly inflate node_modules/json-schema
+164 http fetch GET 200 https://registry.npmjs.org/json-schema 35ms (cache revalidated)
+165 silly inflate node_modules/json-schema-traverse
+166 http fetch GET 200 https://registry.npmjs.org/json-schema-traverse 30ms (cache revalidated)
+167 silly inflate node_modules/json-stringify-safe
+168 http fetch GET 200 https://registry.npmjs.org/json-stringify-safe 30ms (cache revalidated)
+169 silly inflate node_modules/jsprim
+170 http fetch GET 200 https://registry.npmjs.org/jsprim 25ms (cache revalidated)
+171 silly inflate node_modules/merge-stream
+172 http fetch GET 200 https://registry.npmjs.org/merge-stream 26ms (cache revalidated)
+173 silly inflate node_modules/mime-db
+174 http fetch GET 200 https://registry.npmjs.org/mime-db 77ms (cache revalidated)
+175 silly inflate node_modules/mime-types
+176 http fetch GET 200 https://registry.npmjs.org/mime-types 32ms (cache revalidated)
+177 silly inflate node_modules/mimic-fn
+178 http fetch GET 200 https://registry.npmjs.org/mimic-fn 26ms (cache revalidated)
+179 silly inflate node_modules/mp3-cutter
+180 http fetch GET 200 https://registry.npmjs.org/mp3-cutter 373ms (cache revalidated)
+181 silly inflate node_modules/mri
+182 http fetch GET 200 https://registry.npmjs.org/mri 29ms (cache revalidated)
+183 silly inflate node_modules/ms
+184 http fetch GET 200 https://registry.npmjs.org/ms 11ms (cache hit)
+185 silly inflate node_modules/node-domexception
+186 http fetch GET 200 https://registry.npmjs.org/node-domexception 117ms (cache revalidated)
+187 silly inflate node_modules/node-fetch
+188 http fetch GET 200 https://registry.npmjs.org/node-fetch 31ms (cache revalidated)
+189 silly inflate node_modules/npm-run-path
+190 http fetch GET 200 https://registry.npmjs.org/npm-run-path 30ms (cache revalidated)
+191 silly inflate node_modules/oauth-sign
+192 http fetch GET 200 https://registry.npmjs.org/oauth-sign 24ms (cache revalidated)
+193 silly inflate node_modules/onetime
+194 http fetch GET 200 https://registry.npmjs.org/onetime 28ms (cache revalidated)
+195 silly inflate node_modules/p-timeout
+196 http fetch GET 200 https://registry.npmjs.org/p-timeout 24ms (cache revalidated)
+197 silly inflate node_modules/path-key
+198 http fetch GET 200 https://registry.npmjs.org/path-key 26ms (cache revalidated)
+199 silly inflate node_modules/performance-now
+200 http fetch GET 200 https://registry.npmjs.org/performance-now 36ms (cache revalidated)
+201 silly inflate node_modules/psl
+202 http fetch GET 200 https://registry.npmjs.org/psl 25ms (cache revalidated)
+203 silly inflate node_modules/punycode
+204 http fetch GET 200 https://registry.npmjs.org/punycode 32ms (cache revalidated)
+205 silly inflate node_modules/qs
+206 http fetch GET 200 https://registry.npmjs.org/qs 24ms (cache revalidated)
+207 silly inflate node_modules/request
+208 http fetch GET 200 https://registry.npmjs.org/request 32ms (cache revalidated)
+209 silly inflate node_modules/safe-buffer
+210 http fetch GET 200 https://registry.npmjs.org/safe-buffer 2ms (cache hit)
+211 silly inflate node_modules/safe-compare
+212 http fetch GET 200 https://registry.npmjs.org/safe-compare 410ms (cache revalidated)
+213 silly inflate node_modules/safer-buffer
+214 http fetch GET 200 https://registry.npmjs.org/safer-buffer 7ms (cache hit)
+215 silly inflate node_modules/sandwich-stream
+216 http fetch GET 200 https://registry.npmjs.org/sandwich-stream 126ms (cache revalidated)
+217 silly inflate node_modules/shebang-command
+218 http fetch GET 200 https://registry.npmjs.org/shebang-command 49ms (cache revalidated)
+219 silly inflate node_modules/shebang-regex
+220 http fetch GET 200 https://registry.npmjs.org/shebang-regex 63ms (cache revalidated)
+221 silly inflate node_modules/signal-exit
+222 http fetch GET 200 https://registry.npmjs.org/signal-exit 6ms (cache hit)
+223 silly inflate node_modules/sshpk
+224 http fetch GET 200 https://registry.npmjs.org/sshpk 53ms (cache revalidated)
+225 silly inflate node_modules/strip-final-newline
+226 http fetch GET 200 https://registry.npmjs.org/strip-final-newline 49ms (cache revalidated)
+227 silly inflate node_modules/telegraf
+228 http fetch GET 200 https://registry.npmjs.org/telegraf 385ms (cache revalidated)
+229 silly inflate node_modules/telegraf/node_modules/node-fetch
+230 silly inflate node_modules/tough-cookie
+231 http fetch GET 200 https://registry.npmjs.org/tough-cookie 35ms (cache revalidated)
+232 silly inflate node_modules/tr46
+233 http fetch GET 200 https://registry.npmjs.org/tr46 97ms (cache revalidated)
+234 silly inflate node_modules/tunnel-agent
+235 http fetch GET 200 https://registry.npmjs.org/tunnel-agent 42ms (cache revalidated)
+236 silly inflate node_modules/tweetnacl
+237 http fetch GET 200 https://registry.npmjs.org/tweetnacl 68ms (cache revalidated)
+238 silly inflate node_modules/typegram
+239 http fetch GET 200 https://registry.npmjs.org/typegram 352ms (cache revalidated)
+240 silly inflate node_modules/uri-js
+241 http fetch GET 200 https://registry.npmjs.org/uri-js 32ms (cache revalidated)
+242 silly inflate node_modules/uuid
+243 http fetch GET 200 https://registry.npmjs.org/uuid 6ms (cache hit)
+244 silly inflate node_modules/verror
+245 http fetch GET 200 https://registry.npmjs.org/verror 35ms (cache revalidated)
+246 silly inflate node_modules/web-streams-polyfill
+247 http fetch GET 200 https://registry.npmjs.org/web-streams-polyfill 36ms (cache revalidated)
+248 silly inflate node_modules/webidl-conversions
+249 http fetch GET 200 https://registry.npmjs.org/webidl-conversions 64ms (cache revalidated)
+250 silly inflate node_modules/whatwg-url
+251 http fetch GET 200 https://registry.npmjs.org/whatwg-url 28ms (cache revalidated)
+252 silly inflate node_modules/which
+253 timing idealTree:inflate Completed in 8292ms
+254 timing idealTree:userRequests Completed in 0ms
+255 silly idealTree buildDeps
+256 timing idealTree:#root Completed in 2ms
+257 timing idealTree:buildDeps Completed in 3ms
+258 timing idealTree:fixDepFlags Completed in 11ms
+259 timing idealTree Completed in 8464ms
+260 timing reify:loadTrees Completed in 8465ms
+261 timing reify:diffTrees Completed in 14ms
+262 silly reify moves {}
+263 timing reify:retireShallow Completed in 1ms
+264 timing reify:createSparse Completed in 9ms
+265 timing reify:loadBundles Completed in 0ms
+266 silly audit bulk request {
+266 silly audit   '@ffmpeg-installer/darwin-arm64': [ '4.1.5' ],
+266 silly audit   '@ffmpeg-installer/darwin-x64': [ '4.1.0' ],
+266 silly audit   '@ffmpeg-installer/ffmpeg': [ '1.1.0' ],
+266 silly audit   '@ffmpeg-installer/linux-arm': [ '4.1.3' ],
+266 silly audit   '@ffmpeg-installer/linux-arm64': [ '4.1.4' ],
+266 silly audit   '@ffmpeg-installer/linux-ia32': [ '4.1.0' ],
+266 silly audit   '@ffmpeg-installer/linux-x64': [ '4.1.0' ],
+266 silly audit   '@ffmpeg-installer/win32-ia32': [ '4.1.0' ],
+266 silly audit   '@ffmpeg-installer/win32-x64': [ '4.1.0' ],
+266 silly audit   '@ffprobe-installer/darwin-arm64': [ '5.0.1' ],
+266 silly audit   '@ffprobe-installer/darwin-x64': [ '5.0.0' ],
+266 silly audit   '@ffprobe-installer/ffprobe': [ '1.4.1' ],
+266 silly audit   '@ffprobe-installer/linux-arm': [ '5.0.0' ],
+266 silly audit   '@ffprobe-installer/linux-arm64': [ '5.0.0' ],
+266 silly audit   '@ffprobe-installer/linux-ia32': [ '5.0.0' ],
+266 silly audit   '@ffprobe-installer/linux-x64': [ '5.0.0' ],
+266 silly audit   '@ffprobe-installer/win32-ia32': [ '5.0.0' ],
+266 silly audit   '@ffprobe-installer/win32-x64': [ '5.0.0' ],
+266 silly audit   'abort-controller': [ '3.0.0' ],
+266 silly audit   ajv: [ '6.12.6' ],
+266 silly audit   asn1: [ '0.2.6' ],
+266 silly audit   'assert-plus': [ '1.0.0' ],
+266 silly audit   async: [ '3.2.4' ],
+266 silly audit   asynckit: [ '0.4.0' ],
+266 silly audit   'aws-sign2': [ '0.7.0' ],
+266 silly audit   aws4: [ '1.12.0' ],
+266 silly audit   'bcrypt-pbkdf': [ '1.0.2' ],
+266 silly audit   'buffer-alloc': [ '1.2.0' ],
+266 silly audit   'buffer-alloc-unsafe': [ '1.1.0' ],
+266 silly audit   'buffer-fill': [ '1.0.0' ],
+266 silly audit   caseless: [ '0.12.0' ],
+266 silly audit   'combined-stream': [ '1.0.8' ],
+266 silly audit   'core-util-is': [ '1.0.2' ],
+266 silly audit   'cross-spawn': [ '7.0.3' ],
+266 silly audit   which: [ '2.0.2', '1.3.1' ],
+266 silly audit   dashdash: [ '1.14.1' ],
+266 silly audit   'data-uri-to-buffer': [ '4.0.1' ],
+266 silly audit   debug: [ '4.3.4' ],
+266 silly audit   'delayed-stream': [ '1.0.0' ],
+266 silly audit   dotenv: [ '16.3.1' ],
+266 silly audit   'ecc-jsbn': [ '0.1.2' ],
+266 silly audit   'event-target-shim': [ '5.0.1' ],
+266 silly audit   execa: [ '5.1.1' ],
+266 silly audit   extend: [ '3.0.2' ],
+266 silly audit   extsprintf: [ '1.3.0' ],
+266 silly audit   'fast-deep-equal': [ '3.1.3' ],
+266 silly audit   'fast-json-stable-stringify': [ '2.1.0' ],
+266 silly audit   'fetch-blob': [ '3.2.0' ],
+266 silly audit   'fluent-ffmpeg': [ '2.1.2' ],
+266 silly audit   'forever-agent': [ '0.6.1' ],
+266 silly audit   'form-data': [ '2.3.3' ],
+266 silly audit   'formdata-polyfill': [ '4.0.10' ],
+266 silly audit   'get-audio-duration': [ '3.1.1' ],
+266 silly audit   'get-stream': [ '6.0.1' ],
+266 silly audit   getpass: [ '0.1.7' ],
+266 silly audit   'har-schema': [ '2.0.0' ],
+266 silly audit   'har-validator': [ '5.1.5' ],
+266 silly audit   'http-signature': [ '1.2.0' ],
+266 silly audit   'human-signals': [ '2.1.0' ],
+266 silly audit   'is-stream': [ '2.0.1' ],
+266 silly audit   'is-typedarray': [ '1.0.0' ],
+266 silly audit   isexe: [ '2.0.0' ],
+266 silly audit   isstream: [ '0.1.2' ],
+266 silly audit   jsbn: [ '0.1.1' ],
+266 silly audit   'json-schema': [ '0.4.0' ],
+266 silly audit   'json-schema-traverse': [ '0.4.1' ],
+266 silly audit   'json-stringify-safe': [ '5.0.1' ],
+266 silly audit   jsprim: [ '1.4.2' ],
+266 silly audit   'merge-stream': [ '2.0.0' ],
+266 silly audit   'mime-db': [ '1.52.0' ],
+266 silly audit   'mime-types': [ '2.1.35' ],
+266 silly audit   'mimic-fn': [ '2.1.0' ],
+266 silly audit   'mp3-cutter': [ '1.0.6' ],
+266 silly audit   mri: [ '1.2.0' ],
+266 silly audit   ms: [ '2.1.2' ],
+266 silly audit   'node-domexception': [ '1.0.0' ],
+266 silly audit   'node-fetch': [ '3.3.2', '2.6.12' ],
+266 silly audit   'npm-run-path': [ '4.0.1' ],
+266 silly audit   'oauth-sign': [ '0.9.0' ],
+266 silly audit   onetime: [ '5.1.2' ],
+266 silly audit   'p-timeout': [ '4.1.0' ],
+266 silly audit   'path-key': [ '3.1.1' ],
+266 silly audit   'performance-now': [ '2.1.0' ],
+266 silly audit   psl: [ '1.9.0' ],
+266 silly audit   punycode: [ '2.3.0' ],
+266 silly audit   qs: [ '6.5.3' ],
+266 silly audit   request: [ '2.88.2' ],
+266 silly audit   'safe-buffer': [ '5.2.1' ],
+266 silly audit   'safe-compare': [ '1.1.4' ],
+266 silly audit   'safer-buffer': [ '2.1.2' ],
+266 silly audit   'sandwich-stream': [ '2.0.2' ],
+266 silly audit   'shebang-command': [ '2.0.0' ],
+266 silly audit   'shebang-regex': [ '3.0.0' ],
+266 silly audit   'signal-exit': [ '3.0.7' ],
+266 silly audit   sshpk: [ '1.17.0' ],
+266 silly audit   'strip-final-newline': [ '2.0.0' ],
+266 silly audit   telegraf: [ '4.12.2' ],
+266 silly audit   'tough-cookie': [ '2.5.0' ],
+266 silly audit   tr46: [ '0.0.3' ],
+266 silly audit   'tunnel-agent': [ '0.6.0' ],
+266 silly audit   tweetnacl: [ '0.14.5' ],
+266 silly audit   typegram: [ '4.3.0' ],
+266 silly audit   'uri-js': [ '4.4.1' ],
+266 silly audit   uuid: [ '3.4.0' ],
+266 silly audit   verror: [ '1.10.0' ],
+266 silly audit   'web-streams-polyfill': [ '3.2.1' ],
+266 silly audit   'webidl-conversions': [ '3.0.1' ],
+266 silly audit   'whatwg-url': [ '5.0.0' ]
+266 silly audit }
+267 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/win32-x64
+268 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/win32-x64' ]
+269 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/win32-ia32
+270 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/win32-ia32' ]
+271 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/linux-ia32
+272 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/linux-ia32' ]
+273 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/linux-arm64
+274 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/linux-arm64' ]
+275 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/linux-arm
+276 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/linux-arm' ]
+277 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/darwin-x64
+278 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/darwin-x64' ]
+279 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/darwin-arm64
+280 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/darwin-arm64' ]
+281 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/win32-x64
+282 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/win32-x64' ]
+283 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/win32-ia32
+284 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/win32-ia32' ]
+285 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/linux-ia32
+286 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/linux-ia32' ]
+287 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/linux-arm64
+288 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/linux-arm64' ]
+289 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/linux-arm
+290 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/linux-arm' ]
+291 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/darwin-x64
+292 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/darwin-x64' ]
+293 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/darwin-arm64
+294 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/darwin-arm64' ]
+295 timing reifyNode:node_modules/@ffprobe-installer/win32-x64 Completed in 7ms
+296 timing reifyNode:node_modules/@ffprobe-installer/win32-ia32 Completed in 6ms
+297 timing reifyNode:node_modules/@ffprobe-installer/linux-ia32 Completed in 6ms
+298 timing reifyNode:node_modules/@ffprobe-installer/linux-arm64 Completed in 6ms
+299 timing reifyNode:node_modules/@ffprobe-installer/linux-arm Completed in 6ms
+300 timing reifyNode:node_modules/@ffprobe-installer/darwin-x64 Completed in 6ms
+301 timing reifyNode:node_modules/@ffprobe-installer/darwin-arm64 Completed in 9ms
+302 timing reifyNode:node_modules/@ffmpeg-installer/win32-x64 Completed in 9ms
+303 timing reifyNode:node_modules/@ffmpeg-installer/win32-ia32 Completed in 9ms
+304 timing reifyNode:node_modules/@ffmpeg-installer/linux-ia32 Completed in 9ms
+305 timing reifyNode:node_modules/@ffmpeg-installer/linux-arm64 Completed in 9ms
+306 timing reifyNode:node_modules/@ffmpeg-installer/linux-arm Completed in 9ms
+307 timing reifyNode:node_modules/@ffmpeg-installer/darwin-x64 Completed in 9ms
+308 timing reifyNode:node_modules/@ffmpeg-installer/darwin-arm64 Completed in 8ms
+309 timing reify:unpack Completed in 11ms
+310 timing reify:unretire Completed in 0ms
+311 timing build:queue Completed in 8ms
+312 timing build:deps Completed in 8ms
+313 timing build Completed in 10ms
+314 timing reify:build Completed in 10ms
+315 timing reify:trash Completed in 2ms
+316 timing reify:save Completed in 95ms
+317 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 163ms
+318 timing auditReport:getReport Completed in 174ms
+319 silly audit report {
+319 silly audit report   request: [
+319 silly audit report     {
+319 silly audit report       id: 1092779,
+319 silly audit report       url: 'https://github.com/advisories/GHSA-p8p7-x288-28g6',
+319 silly audit report       title: 'Server-Side Request Forgery in Request',
+319 silly audit report       severity: 'moderate',
+319 silly audit report       vulnerable_versions: '<=2.88.2',
+319 silly audit report       cwe: [Array],
+319 silly audit report       cvss: [Object]
+319 silly audit report     }
+319 silly audit report   ],
+319 silly audit report   'tough-cookie': [
+319 silly audit report     {
+319 silly audit report       id: 1092470,
+319 silly audit report       url: 'https://github.com/advisories/GHSA-72xf-g2v4-qvf3',
+319 silly audit report       title: 'tough-cookie Prototype Pollution vulnerability',
+319 silly audit report       severity: 'moderate',
+319 silly audit report       vulnerable_versions: '<4.1.3',
+319 silly audit report       cwe: [Array],
+319 silly audit report       cvss: [Object]
+319 silly audit report     }
+319 silly audit report   ]
+319 silly audit report }
+320 timing metavuln:packument:request Completed in 0ms
+321 timing metavuln:packument:tough-cookie Completed in 0ms
+322 timing metavuln:cache:get:security-advisory:request:XxmhHlktAWnUG+UxltWtbzbJLSHGqXJeYJEvAsaRaPUzLvI7pL3EffAj4hl/sqt5qrq7H8YjSnFOKVrPSy5vnA== Completed in 6ms
+323 timing metavuln:load:security-advisory:request:1092779 Completed in 13ms
+324 timing metavuln:cache:get:security-advisory:tough-cookie:VNuwVxANcCKf9fmuD0Vt2V7tyUFg0MOcTBXo66LvguhCeFU0pqdKjCffmtFFsDUZMFdCTHimURRZB0jVSz1wRg== Completed in 19ms
+325 timing metavuln:load:security-advisory:tough-cookie:1092470 Completed in 15ms
+326 timing metavuln:cache:put:security-advisory:request:XxmhHlktAWnUG+UxltWtbzbJLSHGqXJeYJEvAsaRaPUzLvI7pL3EffAj4hl/sqt5qrq7H8YjSnFOKVrPSy5vnA== Completed in 25ms
+327 timing metavuln:calculate:security-advisory:request:1092779 Completed in 44ms
+328 timing metavuln:cache:put:security-advisory:tough-cookie:VNuwVxANcCKf9fmuD0Vt2V7tyUFg0MOcTBXo66LvguhCeFU0pqdKjCffmtFFsDUZMFdCTHimURRZB0jVSz1wRg== Completed in 8ms
+329 timing metavuln:calculate:security-advisory:tough-cookie:1092470 Completed in 43ms
+330 timing metavuln:cache:get:security-advisory:request:ha9I6cGuLN/1vrRjDs9jKCHGoyshzsZrn3liVXlwfWRxB2E/mWSVQsFkapkL7FqkKtl0mJVld9k3Junaf5/m0g== Completed in 8ms
+331 timing metavuln:load:security-advisory:request:VNuwVxANcCKf9fmuD0Vt2V7tyUFg0MOcTBXo66LvguhCeFU0pqdKjCffmtFFsDUZMFdCTHimURRZB0jVSz1wRg== Completed in 46ms
+332 timing metavuln:cache:put:security-advisory:request:ha9I6cGuLN/1vrRjDs9jKCHGoyshzsZrn3liVXlwfWRxB2E/mWSVQsFkapkL7FqkKtl0mJVld9k3Junaf5/m0g== Completed in 7ms
+333 timing metavuln:calculate:security-advisory:request:VNuwVxANcCKf9fmuD0Vt2V7tyUFg0MOcTBXo66LvguhCeFU0pqdKjCffmtFFsDUZMFdCTHimURRZB0jVSz1wRg== Completed in 61ms
+334 timing auditReport:init Completed in 148ms
+335 timing reify:audit Completed in 323ms
+336 timing reify Completed in 8832ms
+337 silly ADD
+338 silly ADD
+339 silly ADD
+340 silly ADD
+341 silly ADD
+342 silly ADD
+343 silly ADD
+344 silly ADD
+345 silly ADD
+346 silly ADD
+347 silly ADD
+348 silly ADD
+349 silly ADD
+350 silly ADD
+351 timing command:uninstall Completed in 8869ms
+352 verbose exit 0
+353 timing npm Completed in 9204ms
+354 info ok

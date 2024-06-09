@@ -1,0 +1,267 @@
+0 verbose cli /home/ubuntu/.nvm/versions/node/v20.5.0/bin/node /home/ubuntu/.nvm/versions/node/v20.5.0/bin/npm
+1 info using npm@9.8.0
+2 info using node@v20.5.0
+3 timing npm:load:whichnode Completed in 22ms
+4 timing config:load:defaults Completed in 4ms
+5 timing config:load:file:/home/ubuntu/.nvm/versions/node/v20.5.0/lib/node_modules/npm/npmrc Completed in 4ms
+6 timing config:load:builtin Completed in 4ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:/home/ubuntu/tgbots/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 5ms
+11 timing config:load:file:/home/ubuntu/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 1ms
+13 timing config:load:file:/home/ubuntu/.nvm/versions/node/v20.5.0/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:setEnvs Completed in 1ms
+16 timing config:load Completed in 18ms
+17 timing npm:load:configload Completed in 19ms
+18 timing config:load:flatten Completed in 7ms
+19 timing npm:load:mkdirpcache Completed in 4ms
+20 timing npm:load:mkdirplogs Completed in 0ms
+21 verbose title npm i
+22 verbose argv "i"
+23 timing npm:load:setTitle Completed in 1ms
+24 timing npm:load:display Completed in 1ms
+25 verbose logfile logs-max:10 dir:/home/ubuntu/.npm/_logs/2023-08-02T14_01_59_297Z-
+26 verbose logfile /home/ubuntu/.npm/_logs/2023-08-02T14_01_59_297Z-debug-0.log
+27 timing npm:load:logFile Completed in 22ms
+28 timing npm:load:timers Completed in 0ms
+29 timing npm:load:configScope Completed in 0ms
+30 timing npm:load Completed in 103ms
+31 timing arborist:ctor Completed in 0ms
+32 silly logfile done cleaning log files
+33 timing idealTree:init Completed in 130ms
+34 timing idealTree:userRequests Completed in 0ms
+35 silly idealTree buildDeps
+36 timing idealTree:#root Completed in 0ms
+37 timing idealTree:buildDeps Completed in 2ms
+38 timing idealTree:fixDepFlags Completed in 0ms
+39 timing idealTree Completed in 135ms
+40 timing arborist:ctor Completed in 0ms
+41 timing reify:loadTrees Completed in 204ms
+42 timing reify:diffTrees Completed in 4ms
+43 silly reify moves {}
+44 timing reify:retireShallow Completed in 1ms
+45 timing reify:createSparse Completed in 14ms
+46 timing reify:loadBundles Completed in 0ms
+47 silly audit bulk request {
+47 silly audit   '@ffmpeg-installer/darwin-arm64': [ '4.1.5' ],
+47 silly audit   '@ffmpeg-installer/darwin-x64': [ '4.1.0' ],
+47 silly audit   '@ffmpeg-installer/ffmpeg': [ '1.1.0' ],
+47 silly audit   '@ffmpeg-installer/linux-arm': [ '4.1.3' ],
+47 silly audit   '@ffmpeg-installer/linux-arm64': [ '4.1.4' ],
+47 silly audit   '@ffmpeg-installer/linux-ia32': [ '4.1.0' ],
+47 silly audit   '@ffmpeg-installer/linux-x64': [ '4.1.0' ],
+47 silly audit   '@ffmpeg-installer/win32-ia32': [ '4.1.0' ],
+47 silly audit   '@ffmpeg-installer/win32-x64': [ '4.1.0' ],
+47 silly audit   '@ffprobe-installer/darwin-arm64': [ '5.0.1' ],
+47 silly audit   '@ffprobe-installer/darwin-x64': [ '5.0.0' ],
+47 silly audit   '@ffprobe-installer/ffprobe': [ '1.4.1' ],
+47 silly audit   '@ffprobe-installer/linux-arm': [ '5.0.0' ],
+47 silly audit   '@ffprobe-installer/linux-arm64': [ '5.0.0' ],
+47 silly audit   '@ffprobe-installer/linux-ia32': [ '5.0.0' ],
+47 silly audit   '@ffprobe-installer/linux-x64': [ '5.0.0' ],
+47 silly audit   '@ffprobe-installer/win32-ia32': [ '5.0.0' ],
+47 silly audit   '@ffprobe-installer/win32-x64': [ '5.0.0' ],
+47 silly audit   'abort-controller': [ '3.0.0' ],
+47 silly audit   ajv: [ '6.12.6' ],
+47 silly audit   asn1: [ '0.2.6' ],
+47 silly audit   'assert-plus': [ '1.0.0' ],
+47 silly audit   async: [ '3.2.4' ],
+47 silly audit   asynckit: [ '0.4.0' ],
+47 silly audit   'aws-sign2': [ '0.7.0' ],
+47 silly audit   aws4: [ '1.12.0' ],
+47 silly audit   'bcrypt-pbkdf': [ '1.0.2' ],
+47 silly audit   'buffer-alloc': [ '1.2.0' ],
+47 silly audit   'buffer-alloc-unsafe': [ '1.1.0' ],
+47 silly audit   'buffer-fill': [ '1.0.0' ],
+47 silly audit   caseless: [ '0.12.0' ],
+47 silly audit   'combined-stream': [ '1.0.8' ],
+47 silly audit   'core-util-is': [ '1.0.2' ],
+47 silly audit   'cross-spawn': [ '7.0.3' ],
+47 silly audit   which: [ '2.0.2', '1.3.1' ],
+47 silly audit   dashdash: [ '1.14.1' ],
+47 silly audit   'data-uri-to-buffer': [ '4.0.1' ],
+47 silly audit   debug: [ '4.3.4' ],
+47 silly audit   'delayed-stream': [ '1.0.0' ],
+47 silly audit   dotenv: [ '16.3.1' ],
+47 silly audit   'ecc-jsbn': [ '0.1.2' ],
+47 silly audit   'event-target-shim': [ '5.0.1' ],
+47 silly audit   execa: [ '5.1.1' ],
+47 silly audit   extend: [ '3.0.2' ],
+47 silly audit   extsprintf: [ '1.3.0' ],
+47 silly audit   'fast-deep-equal': [ '3.1.3' ],
+47 silly audit   'fast-json-stable-stringify': [ '2.1.0' ],
+47 silly audit   'fetch-blob': [ '3.2.0' ],
+47 silly audit   'fluent-ffmpeg': [ '2.1.2' ],
+47 silly audit   'forever-agent': [ '0.6.1' ],
+47 silly audit   'form-data': [ '2.3.3' ],
+47 silly audit   'formdata-polyfill': [ '4.0.10' ],
+47 silly audit   'get-audio-duration': [ '3.1.1' ],
+47 silly audit   'get-stream': [ '6.0.1' ],
+47 silly audit   getpass: [ '0.1.7' ],
+47 silly audit   'har-schema': [ '2.0.0' ],
+47 silly audit   'har-validator': [ '5.1.5' ],
+47 silly audit   'http-signature': [ '1.2.0' ],
+47 silly audit   'human-signals': [ '2.1.0' ],
+47 silly audit   'is-stream': [ '2.0.1' ],
+47 silly audit   'is-typedarray': [ '1.0.0' ],
+47 silly audit   isexe: [ '2.0.0' ],
+47 silly audit   isstream: [ '0.1.2' ],
+47 silly audit   jsbn: [ '0.1.1' ],
+47 silly audit   'json-schema': [ '0.4.0' ],
+47 silly audit   'json-schema-traverse': [ '0.4.1' ],
+47 silly audit   'json-stringify-safe': [ '5.0.1' ],
+47 silly audit   jsprim: [ '1.4.2' ],
+47 silly audit   'merge-stream': [ '2.0.0' ],
+47 silly audit   'mime-db': [ '1.52.0' ],
+47 silly audit   'mime-types': [ '2.1.35' ],
+47 silly audit   'mimic-fn': [ '2.1.0' ],
+47 silly audit   'mp3-cutter': [ '1.0.6' ],
+47 silly audit   mri: [ '1.2.0' ],
+47 silly audit   ms: [ '2.1.2' ],
+47 silly audit   'node-domexception': [ '1.0.0' ],
+47 silly audit   'node-fetch': [ '3.3.2', '2.6.12' ],
+47 silly audit   'npm-run-path': [ '4.0.1' ],
+47 silly audit   'oauth-sign': [ '0.9.0' ],
+47 silly audit   onetime: [ '5.1.2' ],
+47 silly audit   'p-timeout': [ '4.1.0' ],
+47 silly audit   'path-key': [ '3.1.1' ],
+47 silly audit   'performance-now': [ '2.1.0' ],
+47 silly audit   psl: [ '1.9.0' ],
+47 silly audit   punycode: [ '2.3.0' ],
+47 silly audit   qs: [ '6.5.3' ],
+47 silly audit   request: [ '2.88.2' ],
+47 silly audit   'safe-buffer': [ '5.2.1' ],
+47 silly audit   'safe-compare': [ '1.1.4' ],
+47 silly audit   'safer-buffer': [ '2.1.2' ],
+47 silly audit   'sandwich-stream': [ '2.0.2' ],
+47 silly audit   'shebang-command': [ '2.0.0' ],
+47 silly audit   'shebang-regex': [ '3.0.0' ],
+47 silly audit   'signal-exit': [ '3.0.7' ],
+47 silly audit   sshpk: [ '1.17.0' ],
+47 silly audit   'strip-final-newline': [ '2.0.0' ],
+47 silly audit   telegraf: [ '4.12.2' ],
+47 silly audit   'tough-cookie': [ '2.5.0' ],
+47 silly audit   tr46: [ '0.0.3' ],
+47 silly audit   'tunnel-agent': [ '0.6.0' ],
+47 silly audit   tweetnacl: [ '0.14.5' ],
+47 silly audit   typegram: [ '4.3.0' ],
+47 silly audit   'uri-js': [ '4.4.1' ],
+47 silly audit   uuid: [ '3.4.0' ],
+47 silly audit   verror: [ '1.10.0' ],
+47 silly audit   'web-streams-polyfill': [ '3.2.1' ],
+47 silly audit   'webidl-conversions': [ '3.0.1' ],
+47 silly audit   'whatwg-url': [ '5.0.0' ]
+47 silly audit }
+48 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/win32-x64
+49 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/win32-x64' ]
+50 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/win32-ia32
+51 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/win32-ia32' ]
+52 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/linux-ia32
+53 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/linux-ia32' ]
+54 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/linux-arm64
+55 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/linux-arm64' ]
+56 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/linux-arm
+57 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/linux-arm' ]
+58 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/darwin-x64
+59 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/darwin-x64' ]
+60 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffprobe-installer/darwin-arm64
+61 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffprobe-installer/darwin-arm64' ]
+62 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/win32-x64
+63 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/win32-x64' ]
+64 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/win32-ia32
+65 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/win32-ia32' ]
+66 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/linux-ia32
+67 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/linux-ia32' ]
+68 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/linux-arm64
+69 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/linux-arm64' ]
+70 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/linux-arm
+71 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/linux-arm' ]
+72 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/darwin-x64
+73 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/darwin-x64' ]
+74 verbose reify failed optional dependency /home/ubuntu/tgbots/node_modules/@ffmpeg-installer/darwin-arm64
+75 silly reify mark deleted [ '/home/ubuntu/tgbots/node_modules/@ffmpeg-installer/darwin-arm64' ]
+76 timing reifyNode:node_modules/@ffprobe-installer/win32-x64 Completed in 62ms
+77 timing reifyNode:node_modules/@ffprobe-installer/win32-ia32 Completed in 61ms
+78 timing reifyNode:node_modules/@ffprobe-installer/linux-ia32 Completed in 57ms
+79 timing reifyNode:node_modules/@ffprobe-installer/linux-arm64 Completed in 57ms
+80 timing reifyNode:node_modules/@ffprobe-installer/linux-arm Completed in 57ms
+81 timing reifyNode:node_modules/@ffprobe-installer/darwin-x64 Completed in 57ms
+82 timing reifyNode:node_modules/@ffprobe-installer/darwin-arm64 Completed in 56ms
+83 timing reifyNode:node_modules/@ffmpeg-installer/win32-x64 Completed in 56ms
+84 timing reifyNode:node_modules/@ffmpeg-installer/win32-ia32 Completed in 57ms
+85 timing reifyNode:node_modules/@ffmpeg-installer/linux-ia32 Completed in 57ms
+86 timing reifyNode:node_modules/@ffmpeg-installer/linux-arm64 Completed in 57ms
+87 timing reifyNode:node_modules/@ffmpeg-installer/linux-arm Completed in 57ms
+88 timing reifyNode:node_modules/@ffmpeg-installer/darwin-x64 Completed in 57ms
+89 timing reifyNode:node_modules/@ffmpeg-installer/darwin-arm64 Completed in 57ms
+90 timing reify:unpack Completed in 63ms
+91 timing reify:unretire Completed in 0ms
+92 timing build:queue Completed in 41ms
+93 timing build:deps Completed in 41ms
+94 timing build Completed in 42ms
+95 timing reify:build Completed in 42ms
+96 timing reify:trash Completed in 48ms
+97 timing reify:save Completed in 48ms
+98 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 260ms
+99 timing auditReport:getReport Completed in 265ms
+100 silly audit report {
+100 silly audit report   request: [
+100 silly audit report     {
+100 silly audit report       id: 1092779,
+100 silly audit report       url: 'https://github.com/advisories/GHSA-p8p7-x288-28g6',
+100 silly audit report       title: 'Server-Side Request Forgery in Request',
+100 silly audit report       severity: 'moderate',
+100 silly audit report       vulnerable_versions: '<=2.88.2',
+100 silly audit report       cwe: [Array],
+100 silly audit report       cvss: [Object]
+100 silly audit report     }
+100 silly audit report   ],
+100 silly audit report   'tough-cookie': [
+100 silly audit report     {
+100 silly audit report       id: 1092470,
+100 silly audit report       url: 'https://github.com/advisories/GHSA-72xf-g2v4-qvf3',
+100 silly audit report       title: 'tough-cookie Prototype Pollution vulnerability',
+100 silly audit report       severity: 'moderate',
+100 silly audit report       vulnerable_versions: '<4.1.3',
+100 silly audit report       cwe: [Array],
+100 silly audit report       cvss: [Object]
+100 silly audit report     }
+100 silly audit report   ]
+100 silly audit report }
+101 timing metavuln:cache:get:security-advisory:request:XxmhHlktAWnUG+UxltWtbzbJLSHGqXJeYJEvAsaRaPUzLvI7pL3EffAj4hl/sqt5qrq7H8YjSnFOKVrPSy5vnA== Completed in 25ms
+102 timing metavuln:cache:get:security-advisory:tough-cookie:VNuwVxANcCKf9fmuD0Vt2V7tyUFg0MOcTBXo66LvguhCeFU0pqdKjCffmtFFsDUZMFdCTHimURRZB0jVSz1wRg== Completed in 24ms
+103 http fetch GET 200 https://registry.npmjs.org/request 71ms (cache revalidated)
+104 timing metavuln:packument:request Completed in 74ms
+105 timing metavuln:load:security-advisory:request:1092779 Completed in 6ms
+106 timing metavuln:calculate:security-advisory:request:1092779 Completed in 81ms
+107 http fetch GET 200 https://registry.npmjs.org/tough-cookie 85ms (cache revalidated)
+108 timing metavuln:packument:tough-cookie Completed in 86ms
+109 timing metavuln:load:security-advisory:tough-cookie:1092470 Completed in 0ms
+110 timing metavuln:calculate:security-advisory:tough-cookie:1092470 Completed in 87ms
+111 timing metavuln:cache:get:security-advisory:request:ha9I6cGuLN/1vrRjDs9jKCHGoyshzsZrn3liVXlwfWRxB2E/mWSVQsFkapkL7FqkKtl0mJVld9k3Junaf5/m0g== Completed in 8ms
+112 timing metavuln:load:security-advisory:request:VNuwVxANcCKf9fmuD0Vt2V7tyUFg0MOcTBXo66LvguhCeFU0pqdKjCffmtFFsDUZMFdCTHimURRZB0jVSz1wRg== Completed in 0ms
+113 timing metavuln:calculate:security-advisory:request:VNuwVxANcCKf9fmuD0Vt2V7tyUFg0MOcTBXo66LvguhCeFU0pqdKjCffmtFFsDUZMFdCTHimURRZB0jVSz1wRg== Completed in 10ms
+114 timing auditReport:init Completed in 134ms
+115 timing reify:audit Completed in 404ms
+116 timing reify Completed in 647ms
+117 silly ADD
+118 silly ADD
+119 silly ADD
+120 silly ADD
+121 silly ADD
+122 silly ADD
+123 silly ADD
+124 silly ADD
+125 silly ADD
+126 silly ADD
+127 silly ADD
+128 silly ADD
+129 silly ADD
+130 silly ADD
+131 timing command:i Completed in 687ms
+132 verbose exit 0
+133 timing npm Completed in 1010ms
+134 info ok

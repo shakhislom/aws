@@ -1,0 +1,43 @@
+db.products.find()
+show collections
+use bekbozor
+show dbs
+db.users.findOneAndUpdate({_id:1000000000},{$set:{role:'admin'}})
+db.users.find()
+use bekbozor
+db.users.find({}).pretty()
+db.users.find()
+db.users
+db.users.find({}).pretty()
+show collections
+db.products.find({})
+db.user.find({})
+db.users.find({})
+use bekbozor
+db.groups.find()
+db.groups.deleteMany({})
+db.groups.deleteMany()
+db.groups.find()
+db.users.findOneAndUpdate({_id: ObjectId("64ccea3bd1a52d2ed6ee1e48")},{$set:{friends:[]}})
+db.users.findOneAndUpdate({_id: ObjectId("64ccea3bd1a52d2ed6ee1e48")},{friends:[]})
+db.users.find({}).pretty()
+db.messages.deleteMany({})
+db.messages.deleteMany()
+db.messages.find()
+db.users.deleteMany({_id:{$ne: ObjectId("64ccea3bd1a52d2ed6ee1e48")}})
+db.users.find({}).pretty()
+use gapbor
+db.users.find({}).pretty()
+db.users.deleteMany({_id:{$ne: ObjectId("64ccea3bd1a52d2ed6ee1e48")}})
+db.users.find({}).pretty()
+db.users.findOneAndUpdate({_id: ObjectId("64ccea3bd1a52d2ed6ee1e48")},{$set:{verified:true}})
+db.users.find({}).pretty()
+db.users.deleteMany({_id:{$ne: ObjectId("64ccea3bd1a52d2ed6ee1e48")}})
+db.users.deleteMany({_id:{$ne: "ObjectId("64ccea3bd1a52d2ed6ee1e48")"}})
+db.users.deleteMany({_id:{$ne:{ ObjectId("64ccea3bd1a52d2ed6ee1e48")}}})
+db.users.find({}).pretty()
+db.messages.find({}).pretty()
+db.messages.deleteMany({})
+db.messages.find({}).pretty()
+db.messages.findOne({}).pretty()
+use gapbor
